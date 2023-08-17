@@ -12,3 +12,4 @@ Input: input is the folder containing the .ply model files
 Output: output contains all the json files for all the models (.ply models)
 
 
+![sModel](https://github.com/saimasafdar2021/Slicer_SurfaceModelNodesSelector/assets/80670821/7d3f869d-f6e0-4431-979c-d28fe72a751f)
