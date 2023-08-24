@@ -15,4 +15,8 @@ Model with selected surface nodes/vertices of each triangle in a model
 ![sModel](https://github.com/saimasafdar2021/Slicer_SurfaceModelNodesSelector/assets/80670821/7d3f869d-f6e0-4431-979c-d28fe72a751f)
 
 
+To run using command line in linux:
+./Slicer --python-script /path/to/script/surfaceModel.py --no-main-window
 
+on mac:
+/applications/Slicer.app/contents/MacOS/Slicer --no-main-window --no-splash --python-script "/full/path/toscript/surfaceModel.py"
