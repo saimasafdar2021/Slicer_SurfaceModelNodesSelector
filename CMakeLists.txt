@@ -4,12 +4,12 @@ project(SurfaceModelNodesSelector)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
-set(EXTENSION_HOMEPAGE "https://www.slicer.org/wiki/Documentation/Nightly/Extensions/SurfaceModelNodesSelector")
+set(EXTENSION_HOMEPAGE "https://github.com/saimasafdar2021/Slicer_SurfaceModelNodesSelector")
 set(EXTENSION_CATEGORY "SurfaceModelNodesSelector")
 set(EXTENSION_CONTRIBUTORS "Saima Safdar (UWA)")
 set(EXTENSION_DESCRIPTION "This extensions selects the nodes/indexes of any surface model automatically. ")
-set(EXTENSION_ICONURL "https://www.example.com/Slicer/Extensions/SurfaceModelNodesSelector.png")
-set(EXTENSION_SCREENSHOTURLS "https://www.example.com/Slicer/Extensions/SurfaceModelNodesSelector/Screenshots/1.png")
+set(EXTENSION_ICONURL "https://github.com/saimasafdar2021/Slicer_SurfaceModelNodesSelector/blob/main/sModel.png")
+set(EXTENSION_SCREENSHOTURLS "https://github.com/saimasafdar2021/Slicer_SurfaceModelNodesSelector/blob/main/sModel.png")
 set(EXTENSION_DEPENDS "NA") # Specified as a list or "NA" if no dependencies
 
 #-----------------------------------------------------------------------------
