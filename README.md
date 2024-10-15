@@ -23,3 +23,5 @@ To run using command line in linux:
 
 on mac:
 /applications/Slicer.app/contents/MacOS/Slicer --no-main-window --no-splash --python-script "/full/path/toscript/surfaceModel.py"
+## surfaceModel.py file 
+s = slicer.modules.surfacemodelnodesselector.widgetRepresentation().self().logic.process("/media/useradmin/Disk2/Slicer-5.3.0-2023-01-21-linux-amd64/25_manually_picking_points/25_manually_picking_points/")
